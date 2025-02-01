@@ -19,8 +19,8 @@ A tool to automatically update your `CHANGELOG.md` file based on merged pull req
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
-   cd your_repo_name
+   git clone https://github.com/makalin/Automated-Changelog-Updater.git
+   cd Automated-Changelog-Updater
    ```
 
 2. Install the required Python packages:
